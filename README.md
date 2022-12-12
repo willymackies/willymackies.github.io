@@ -14,6 +14,7 @@
 <p>Hopefully, I’ll be able to understand and apply basic knowledge from what I’ve learn in this course into my daily life and further my studies into a specialist of one or more fields in Computer Science.</p>
 <h2>Ideal job – Web Developer/Programmer    Reference
   <a href="https://www.youtube.com/watch?v=nKIu9yen5nc" target="_blank" here</a></h2>
+  </h2>
 <p>A Web Developer or Programmer is someone who build websites, create apps, or/and writing a software program for multiple tasks, it’s what we use in our daily life and I find that really intrigue because we usually don’t ask the question ‘How was it created?’, ‘How is it possible for something so small to store that much data and information with just a click/press of a button?’. I’m more interesting in experiencing it then just hearing from it online.</p>
 <p>Setting up a program requires at least the knowledge of one software language and the rest would follow the same principle but with different words. You would need to understand the fundamentals of the languages of how it operates and a lot of time and effort before you can actually build a fully functioning website, but they are some open-source codes online you can copy or learn how it works.</p>
 <p>Currently I’ve just started learning Programming and learning my first language, which is phyton, with zero knowledge and experience whatsoever, and I love it! Sometimes learning something new that interest you is really all you need in life.</p>
