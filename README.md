@@ -19,8 +19,8 @@
 <p>Currently I’ve just started learning Programming and learning my first language, which is phyton, with zero knowledge and experience whatsoever, and I love it! Sometimes learning something new that interest you is really all you need in life.</p>
 <p>Doing an Online course at RMIT about IT is just a stepping stone for me to build up that foundation needed for in-depth Knowledge about being a Programmer with a qualification for that specific role that I’m currently interested in and I’m glad that I finally took my first step into reaching that goal!</p>
   <h2>Personal profile</h2>
-  <p>This is my <a href="https://www.16personalities.com/profiles/d72a11a71745c" target="_blank">Myers-Briggs test</a> showing my personalitties type</p>
-  <p>I did an online learning style test and <a href="https://personalitymax.com/report/?ls=67-51-82&name_key=128fc55e41" target="_blank"> this</a> is what it showed me</p>
-  <p>And finally i did another test that showed me <a href="[The_Dreamer.pdf](https://github.com/willymackies/willymackies.github.io/files/10207339/The_Dreamer.pdf)"> my creativity</a></p>
+  <p>This is my <a href="https://www.16personalities.com/profiles/d72a11a71745c" target="_blank">Myers-Briggs test</a> showing my personalitties type.</p>
+  <p>I did an online learning style test and <a href="https://personalitymax.com/report/?ls=67-51-82&name_key=128fc55e41" target="_blank"> this</a> is what it showed me.</p>
+  <p>And finally i did another test that showed me <a href="[The_Dreamer.pdf](https://github.com/willymackies/willymackies.github.io/files/10207339/The_Dreamer.pdf)"> my creativity.</a></p>
 </body>
 </html>
