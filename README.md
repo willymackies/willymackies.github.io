@@ -21,6 +21,6 @@
   <h2>Personal profile</h2>
   <p>This is my <a href="https://www.16personalities.com/profiles/d72a11a71745c" target="_blank">Myers-Briggs test</a> showing my personalitties type.</p>
   <p>I did an online learning style test and <a href="https://personalitymax.com/report/?ls=67-51-82&name_key=128fc55e41" target="_blank"> this</a> is what it showed me.</p>
-  <p>And finally i did another test that showed me <a href="[The_Dreamer.pdf](https://github.com/willymackies/willymackies.github.io/files/10207339/The_Dreamer.pdf)"> my creativity.</a></p>
+  <p>And finally i did another test that showed me <a href="[The_Dreamer.pdf](https://github.com/willymackies/willymackies.github.io/files/10207339/The_Dreamer.pdf)" target="_blank"> my creativity.</a></p>
 </body>
 </html>
