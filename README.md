@@ -6,7 +6,7 @@
 <img src="![ss](https://user-images.githubusercontent.com/119556360/207021458-05651a38-ecb6-4950-a8f6-cb691247162c.jpg)
 ">
 <h2>Quick summary about myself</h2>
-<p>I have two nationalities, Malaysian and Australian, born and raised in Malaysia and came to Australia in late 2018. My main spoken language is Cantonese, second would be Mandarin and last would be English. I do multiple sports of interest such as Badminton, Futsal, Mountain biking, long distance running (10km), but not as often as I would l0ve to due to work and studies at the moment.</p>
+<p>I have two nationalities, Malaysian and Australian, born and raised in Malaysia and came to Australia in late 2018. My main spoken language is Cantonese, second would be Mandarin and last would be English. I do multiple sports of interest such as Badminton, Futsal, Mountain biking, long distance running, but not as often as I would l0ve to due to work and studies at the moment.</p>
 <h3>Interest in IT (Information Technology)</h3>
 <p>I’ve always been fascinated with technology in general since I had my first Personal Computer when I was just 14, and not just how they operate but the people working behind it, how they create something so advance using complex coding and the countless hours required to make it.</p>
 <p>I would say that I feel in love with technology after I had my first laptop, I felt like I was in the matrix, with infinite amount of information, games, convenience of doing my essay and school work with all the tools I’ll ever need.</p>
