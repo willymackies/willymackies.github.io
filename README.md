@@ -5,7 +5,7 @@
 <h2>Willem MacNamara | 03/10/1999 | s3778866 | s3778866@student.rmit.edu.au</h2>
 <img src="https://user-images.githubusercontent.com/119556360/207021458-05651a38-ecb6-4950-a8f6-cb691247162c.jpg">
 <h2>Quick summary about myself</h2>
-<p>I have two nationalities, Malaysian and Australian, born and raised in Malaysia and came to Australia in late 2018. My main spoken language is Cantonese, second would be Mandarin and last would be English. I do multiple sports of interest such as Badminton, Futsal, Mountain biking, long distance running, but not as often as I would l0ve to due to work and studies at the moment.</p>
+<p>I have two nationalities, Malaysian and Australian, born and raised in Malaysia and came to Australia in late 2018. My main spoken language is Cantonese, second would be Mandarin and last would be English. I do multiple sports of interest such as Badminton, Futsal, Mountain biking, long distance running, but not as often as I would love to due to work and studies at the moment.</p>
 <h3>Interest in IT (Information Technology)</h3>
 <p>I’ve always been fascinated with technology in general since I had my first Personal Computer when I was just 14, and not just how they operate but the people working behind it, how they create something so advance using complex coding and the countless hours required to make it.</p>
 <p>I would say that I feel in love with technology after I had my first laptop, I felt like I was in the matrix, with infinite amount of information, games, convenience of doing my essay and school work with all the tools I’ll ever need.</p>
@@ -20,7 +20,7 @@
   <h2>Personal profile</h2>
   <p>This is my <a href="https://www.16personalities.com/profiles/d72a11a71745c" target="_blank">Myers-Briggs test</a> showing my personalitties type.</p>
   <p>I did an online learning style test and <a href="https://personalitymax.com/report/?ls=67-51-82&name_key=128fc55e41" target="_blank"> this</a> is what it showed me.</p>
-  <p>And finally i did another test that showed me <a href="[The_Dreamer.pdf](https://github.com/willymackies/willymackies.github.io/files/10207339/The_Dreamer.pdf)" target="_blank"> my creativity.</a></p>
+  <p>And finally i did another test that showed me <a href="https://github.com/willymackies/willymackies.github.io/files/10207339/The_Dreamer.pdf" target="_blank"> my creativity.</a></p>
 </body>
 </html>
 
