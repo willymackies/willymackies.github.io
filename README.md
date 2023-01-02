@@ -3,7 +3,7 @@
 <body>
 <h1>Personal Profile</h1>
 <h2>Willem MacNamara | 03/10/1999 | s3778866 | s3778866@student.rmit.edu.au</h2>
-<img src="https://user-images.githubusercontent.com/119556360/207021458-05651a38-ecb6-4950-a8f6-cb691247162c.jpg">
+<img src="https://user-images.githubusercontent.com/119556360/207021458-05651a38-ecb6-4950-a8f6-cb691247162c.jpg" width= 370 height= 500>
 <h2>Quick summary about myself</h2>
 <p>I have two nationalities, Malaysian and Australian, born and raised in Malaysia and came to Australia in late 2018. My main spoken language is Cantonese, second would be Mandarin and last would be English. I do multiple sports of interest such as Badminton, Futsal, Mountain biking, long distance running, but not as often as I would love to due to work and studies at the moment.</p>
 <h3>Interest in IT (Information Technology)</h3>
