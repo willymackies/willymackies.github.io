@@ -72,10 +72,14 @@ body{
     
 }
 
-.second-gif{
-    float:center;
-    width:70px;
-    padding-left: 20px;
+.col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+    padding: 50px 20px;
 }
 
 .last-para{
