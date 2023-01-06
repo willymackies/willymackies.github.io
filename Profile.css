@@ -1,0 +1,80 @@
+.images{
+    width: 300px;
+    float: left;
+    clear: both;
+    padding: 30px;
+    display:block;
+    justify-content: space-around;
+}
+
+.underline{
+    border-bottom: 4px white solid;
+}
+
+#title{
+    font-weight: 600;
+    text-shadow: 5px 5px 2px grey;
+
+}
+
+.it{
+    text-decoration: underline;
+    font-weight: 600;
+    text-shadow: 5px 5px 2px grey;
+    resize: none;
+}
+
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+.Text-image{
+   text-align: center;
+   padding-top: 150px;
+   padding-bottom: 120px;
+   display: block;
+   resize: none;
+}
+
+.first-para{
+    width: 300px;
+    float: left;
+    clear: both;
+    padding: 30px;
+    display:-moz-box;
+    justify-content: center;
+}
+
+.ideal{
+    text-decoration: underline;
+    font-weight: 600;
+    text-shadow: 5px 5px 2px grey;
+}
+
+.second-para{
+    float:center;
+
+}
+
+.reference{
+    top: 20px;
+    
+}
+
+.second-gif{
+    float:center;
+    width:70px;
+    padding-left: 20px;
+}
+
+.last-para{
+    display: left;
+    background-image: url("images/personality.gif");
+    font-weight: 500px;
+    text-shadow: 0px 0px 100px white;
+    resize: none;
+    clear: both;
+    width: 600px;
+}
