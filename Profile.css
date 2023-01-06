@@ -1,5 +1,14 @@
+body{
+    background-image: url("images/tech.jpg")
+}
+
+
+
+
+
+
 .images{
-    width: 100px;
+    width: 300px;
     float: left;
     clear: both;
     padding: 30px;
