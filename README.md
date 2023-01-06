@@ -9,7 +9,7 @@
   <h2>Willem MacNamara | 03/10/1999 | s3778866 | s3778866@student.rmit.edu.au</h2>
   </div>
   <div class= "profil-image">
-  <img src="images/ss.jpg" class="images" alt="Willem MacNamara in a suit">
+  <img src="images/ss.jpg" class="images" alt="Willem MacNamara in a suit" width="300" height="400">
   </div>
   <div class="Text-image">
   <h2><span id="title">INTRODUCTION</span></h2>
