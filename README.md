@@ -97,9 +97,13 @@ If the project is successful, these would be the outcome:
 
 <h2> References </h2>
 1. https://www.youtube.com/watch?v=nKIu9yen5nc
+  
 2. Myers-Briggs test showing my personalitties type - https://www.16personalities.com/profiles/d72a11a71745c
+  
 3. Learning style test by personalitymax- https://personalitymax.com/report/?ls=67-51-82&name_key=128fc55e41
+  
 3. Creativity by Adobe - https://github.com/willymackies/willymackies.github.io/files/10207339/The_Dreamer.pdf
+  
 </body>
 </html>
 
