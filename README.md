@@ -113,6 +113,7 @@ If the project is successful, these would be the outcome:
 - Facilitate remote work and collaboration: VR technology has the potential to revolutionize the way we work and collaborate, by allowing people to feel as if they are physically present with each other even when they are separated by distance. A successful VR project could help to improve the efficiency and effectiveness of remote work and collaboration, by providing users with a more immersive and realistic virtual environment.
 
 <h2> References </h2>
+  
 1. https://www.youtube.com/watch?v=nKIu9yen5nc
   
 2. Myers-Briggs test showing my personalitties type - https://www.16personalities.com/profiles/d72a11a71745c
