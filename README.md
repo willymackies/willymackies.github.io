@@ -38,6 +38,88 @@
       <p>And finally i did another test that showed me <a href="The_Dreamer.pdf" target="_blank"> my creativity.</a></p>
       </div>
     </div>
+  <h2> IT PROJECT – immersive VR interaction </h2>
+ <h2> Overview </h2>
+Immersive VR (virtual reality) interaction refers to the use of VR technology to create a fully immersive experience for the user. This can include the use of VR headsets, gloves, or other devices that allow the user to interact with a virtual environment as if they were physically present in it. VR technology has the ability to simulate a wide range of experiences, from realistic simulations of real-world environments to completely fantastical virtual worlds.
+<h2> Motivation </h2>
+At a young age, I was interested in video games. I believe that they not only provide entertainment but can also be a way to learn and acquire knowledge that can be applied in our daily lives, especially when interacting with people from different backgrounds online. Through playing video games, I have learned skills such as social interaction, how to communicate with people who have different accents and cultural backgrounds, and basic knowledge about different countries. I have even learned how to build my PC through building PC simulator games. In addition to these practical skills, I believe that video games can also teach creativity and social decision-making.
+immersive VR interaction could also be useful in a variety of other fields in the future, including:
+
+- Therapy and rehabilitation: VR technology could be used to help patients recover from injuries or conditions by providing a safe and controlled environment in which they can perform therapeutic exercises.
+
+- Tourism: VR technology could be used to allow people to virtually visit and explore places around the world, without the need for physical travel.
+
+- Virtual meetings and events: VR technology could be used to facilitate virtual meetings and events, allowing people to attend and participate in them from anywhere in the world.
+
+- Remote work: VR technology could be used to allow people to work remotely, with the ability to feel as if they are in the same physical location as their colleagues.
+
+Overall, the future potential for immersive VR interaction is vast, and it is likely to have a significant impact in a variety of fields in the coming years.
+<h2> Description </h2>
+Immersive VR (virtual reality) interaction refers to the use of VR technology to create a fully immersive experience for the user. This typically involves the use of a VR headset, which is a device that is worn on the head and covers the eyes, providing a visual display of the virtual environment. Some VR headsets also include headphones for audio immersion and may include additional sensors or controllers for tracking the user's movements and allowing them to interact with the virtual environment.
+
+When using immersive VR, the user is typically able to look around and move within the virtual environment as if they were physically present in it. This can be accomplished through the use of sensors and controllers that track the user's head and body movements, allowing them to "move" within the virtual space. Depending on the specific VR headset and software being used, the user may also be able to interact with virtual objects and environments using gestures, voice commands, or physical controllers.
+
+One of the main benefits of immersive VR interaction is the sense of presence it can provide. Because the user is fully immersed in the virtual environment, they can feel as if they are actually present in it. This can be especially useful in educational and training scenarios, where VR technology can be used to create simulations of real-world environments that allow users to learn and practice new skills without the risks associated with real-world training.
+
+There are many different types of VR headsets and other devices available for immersive VR interaction, each with its own unique features and capabilities. Some of the most common types of VR headsets include:
+
+- PC-based VR systems: These VR systems require a PC or other high-powered computer to run, and typically include a headset with sensors and controllers, as well as a separate set of cameras or other sensors that are placed around the room to track the user's movements.
+
+- Standalone VR systems: These VR systems are self-contained and do not require a separate computer or other device to run. They often have built-in sensors and controllers, and may include features such as high-resolution displays, positional audio, and haptic feedback.
+
+- Mobile VR systems: These VR systems use a smartphone or other mobile device as the display and processing unit, and typically include a headset with sensors and controllers that allow the user to interact with the virtual environment.
+
+In addition to its educational and training applications, immersive VR interaction also has the potential to be used for entertainment purposes. As VR technology continues to improve, it is likely that users will be able to experience increasingly realistic and immersive virtual environments and activities. This could include everything from virtual roller coasters and sports simulations to virtual concerts and other live events.
+
+<h2> Tools and technologies </h2>
+There are a variety of tools and technologies that are required for immersive VR interaction, including:
+
+- VR headsets: A VR headset is a device that is worn on the head and covers the eyes, providing a visual display of the virtual environment. Some VR headsets also include headphones for audio immersion and may include additional sensors or controllers for tracking the user's movements and allowing them to interact with the virtual environment.
+
+- Sensors and controllers: Sensors and controllers are used to track the user's movements and allow them to interact with the virtual environment. These may include gyroscopes, accelerometers, magnetometers, and other types of sensors, as well as physical controllers that the user can hold in their hands.
+
+- Tracking cameras: Some VR systems use tracking cameras or other sensors to track the user's movements and position in the physical space. This can help to improve the accuracy and realism of the VR experience.
+
+- High-performance processors: VR systems typically require high-performance processors to handle the complex calculations required to render the virtual environment in real-time.
+
+- Software development tools: To create VR applications and experiences, developers may use a variety of software development tools, such as game engines, 3D modeling software, and programming languages such as C++.
+
+There are many open source tools and technologies that can be used for immersive VR interaction, including:
+
+- OpenVR: OpenVR is an open source API that allows developers to create VR applications that are compatible with a wide range of VR hardware and software.
+
+- Blender: Blender is a free and open source 3D modeling and animation software that can be used to create 3D models and environments for VR applications.
+
+- Unity: Unity is a popular game engine that also has support for VR development. While the core engine is free to use, some VR-specific features may require a paid license.
+
+<h2> Skills required </h2>
+To develop immersive VR applications and experiences, there are a variety of skills and technologies that may be required. Some of the most important skills and technologies include:
+
+- Programming: VR development typically involves writing code, so a strong foundation in programming is essential. This may include knowledge of languages such as C++, C#, or Java, as well as experience with frameworks and libraries such as OpenVR, Unity, or Godot.
+
+- 3D modeling and animation: To create realistic and immersive VR environments, developers may need to use 3D modeling and animation software to create 3D models and animations. Popular software options for this purpose include Blender, Maya, and 3ds Max.
+
+- Game development: Many VR applications are games or game-like experiences, so experience with game development can be useful. This may include knowledge of game engines, game design principles, and development tools such as Unity or Unreal Engine.
+
+- Hardware: Depending on the specific VR system being used, there may be additional hardware requirements, such as VR headsets, sensors, controllers, and tracking cameras. Familiarity with the hardware capabilities and limitations of different VR systems can be helpful in developing effective VR applications.
+
+- Other skills: Depending on the specific goals of the VR project, additional skills may be required, such as knowledge of user experience design, 3D printing, or electrical engineering.
+
+<h2> Overview </h2>
+If the project is successful, these would be the outcome:
+
+- Create new and innovative forms of communication and social interaction: VR technology has the potential to create new and innovative ways for people to connect and interact, both in virtual and physical spaces. This could include everything from virtual reality social networks and virtual reality dating to virtual reality concerts and other live events.
+
+- Facilitate remote work and collaboration: VR technology has the potential to revolutionize the way we work and collaborate, by allowing people to feel as if they are physically present with each other even when they are separated by distance. A successful VR project could help to improve the efficiency and effectiveness of remote work and collaboration, by providing users with a more immersive and realistic virtual environment.
+
+<h2> References </h2>
+1. https://www.youtube.com/watch?v=nKIu9yen5nc
+  
+2. Myers-Briggs test showing my personalitties type - https://www.16personalities.com/profiles/d72a11a71745c
+  
+3. Learning style test by personalitymax- https://personalitymax.com/report/?ls=67-51-82&name_key=128fc55e41
+  
+3. Creativity by Adobe - https://github.com/willymackies/willymackies.github.io/files/10207339/The_Dreamer.pdf
 </body>
 </html>
 
