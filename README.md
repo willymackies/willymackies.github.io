@@ -39,6 +39,7 @@
       </div>
     </div>
   <h2> IT PROJECT – immersive VR interaction </h2>
+  <img scr="images/minh-pham-HI6gy-p-WBI-unsplash.jpg" width="300" height="200">
  <h2> Overview </h2>
 Immersive VR (virtual reality) interaction refers to the use of VR technology to create a fully immersive experience for the user. This can include the use of VR headsets, gloves, or other devices that allow the user to interact with a virtual environment as if they were physically present in it. VR technology has the ability to simulate a wide range of experiences, from realistic simulations of real-world environments to completely fantastical virtual worlds.
 <h2> Motivation </h2>
